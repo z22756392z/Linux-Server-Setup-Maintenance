@@ -1,4 +1,4 @@
-[pptpd](./server_hosting_pptpd.txt)
+[pptpd](./server_hosting_pptpd.md)
 
 ## Command
 

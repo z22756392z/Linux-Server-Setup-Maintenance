@@ -1,4 +1,4 @@
-[Ngrok](./ngrok.txt)
+[Ngrok](./Ngrok.md)
 
 ## Command
 

@@ -1,7 +1,3 @@
-## SELinux
-
-
-
 ## Httpd
 
 centos
